@@ -16,11 +16,7 @@ It is an urgent project, so we would need to know if it can go ahead before 11am
 
 Please find the files here: 
 
-[FILE 1](https://drive.google.com/open?id=1WSuZW6ITv9ZMuGIwgxlGq1agRAnTOdJC) 
-
-[FILE 2](https://drive.google.com/open?id=1nKJ38emkiNsg-SjAGC60nvuyro_m8MC8) 
-
-[FILE 3](https://drive.google.com/open?id=1STx3hLzOYfEmEgSA_wVgfPUrIHEr7tM6)
+[FILE 1](https://drive.google.com/open?id=1WSuZW6ITv9ZMuGIwgxlGq1agRAnTOdJC) -- [FILE 2](https://drive.google.com/open?id=1nKJ38emkiNsg-SjAGC60nvuyro_m8MC8) -- [FILE 3](https://drive.google.com/open?id=1STx3hLzOYfEmEgSA_wVgfPUrIHEr7tM6)
 
 Also, could we please ask you that you send us the name of your point of contact so that we can be updated about the project and can answer queries if they arise? What is the easiest way to communicate with your team?
 
@@ -28,6 +24,7 @@ Also, could we please ask you that you send us the name of your point of contact
 Many thanks in advance.
 
 Kind regards,
-The BY&Partners Team
+**The BY&Partners Team**
+![img](assets/collaborativetranslationlogo.png)
 
 
