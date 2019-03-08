@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Translation Project
 
-You can use the [editor on GitHub](https://github.com/lauralinares/collaborativetranslation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Dear friends,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://drive.google.com/open?id=1XwMTTcJgqjS2sqgAYkAkM7FLM9mM1n20)
 
-### Markdown
+We hope this email finds you well. We are writing to you because one of our clients has requested the translation of three documents into the following languages:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- French
+- Spanish
+- Italian
+- German
+- Chinese
 
-```markdown
-Syntax highlighted code block
+It is an urgent project, so we would need to know if it can go ahead before 11am this morning, and we would need the translation finished for 3:30pm today. Could you please reply as soon as possible with information about your availability for each language (partial or total), and a budget for the following:
 
-# Header 1
-## Header 2
-### Header 3
+- Translation
+- Proofreading 
+- Formatting
 
-- Bulleted
-- List
+Please find the files here: [FILE 1](https://drive.google.com/open?id=1WSuZW6ITv9ZMuGIwgxlGq1agRAnTOdJC) [FILE 2](https://drive.google.com/open?id=1nKJ38emkiNsg-SjAGC60nvuyro_m8MC8) [FILE 3](https://drive.google.com/open?id=1STx3hLzOYfEmEgSA_wVgfPUrIHEr7tM6)
 
-1. Numbered
-2. List
+Also, could we please ask you that you send us the name of your point of contact so that we can be updated about the project and can answer queries if they arise?
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+Many thanks in advance.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Kind regards,
+The BY&Partners Team
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lauralinares/collaborativetranslation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
