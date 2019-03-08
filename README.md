@@ -1,8 +1,4 @@
-## Translation Project
-
 Dear friends,
-
-![Image](https://drive.google.com/open?id=1XwMTTcJgqjS2sqgAYkAkM7FLM9mM1n20)
 
 We hope this email finds you well. We are writing to you because one of our clients has requested the translation of three documents into the following languages:
 
@@ -27,4 +23,5 @@ Many thanks in advance.
 
 Kind regards,
 The BY&Partners Team
+![Image](src https://drive.google.com/open?id=1XwMTTcJgqjS2sqgAYkAkM7FLM9mM1n20)
 
