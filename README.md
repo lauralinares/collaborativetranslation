@@ -24,6 +24,7 @@ Also, could we please ask you that you send us the name of your point of contact
 Many thanks in advance.
 
 Kind regards,
+
 **The BY&Partners Team**
 ![img](assets/collaborativetranslationlogo.png)
 
