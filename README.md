@@ -1,5 +1,15 @@
 Dear Aileen,
 
+Many thanks for your quick response. I have just talked to my team and we are happy to accept the €2000 price. Thanks very much for understanding the situation and giving us a special quote. Please include an invoice for this quote on delivery of the project.
+
+Also, I'm afraid I'm going to have to be away for a few hours today so I might not be readily available to answer your team's questions. Is there any way we could set up a shared document of sorts so that my team can reply directly to yours without my mediation, in case more questions arise?
+
+Many thanks,
+Laura 
+
+--
+Dear Aileen,
+
 The articles will be published online, as well as on a special issue of the client's magazine focusing on Irish women in history, aimed at a general (Irish and British mostly) readership. The layout will be the same and indeed should be preserved, but there is a certain flexibility, so the word count does not need to be exactly the same.
 
 Many thanks,
