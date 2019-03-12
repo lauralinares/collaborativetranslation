@@ -8,11 +8,7 @@ We hope this email finds you well. We are writing to you because one of our clie
 - German
 - Chinese
 
-It is an urgent project, so we would need to know if it can go ahead before 11am this morning, and we would need the translation finished for 3:30pm today. Could you please reply as soon as possible with information about your availability for each language (partial or total), and a budget for the following:
-
-- Translation
-- Proofreading 
-- Formatting
+This is an urgent project, so **we would need to know if it can go ahead before 11am this morning**, and we would need the **translation finished for 3pm today**. Could you please reply as soon as possible with information about your availability for each language (partial or total), and a final price (including translation, proofreading and formatting).
 
 Please find the files here: 
 
