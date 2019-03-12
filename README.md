@@ -3,6 +3,7 @@ Dear Aileen,
 The articles will be published online, as well as on a special issue of the client's magazine focusing on Irish women in history, aimed at a general (Irish and British mostly) readership. The layout will be the same and indeed should be preserved, but there is a certain flexibility, so the word count does not need to be exactly the same.
 
 Many thanks,
+
 The BY&Partners
 
 --
