@@ -1,5 +1,33 @@
 Dear Aileen,
 
+The articles will be published online, as well as on a special issue of the client's magazine focusing on Irish women in history, aimed at a general (Irish and British mostly) readership. The layout will be the same and indeed should be preserved, but there is a certain flexibility, so the word count does not need to be exactly the same.
+
+Many thanks,
+The BY&Partners
+
+--
+
+Dear Laura,
+
+I have a few questions from the translators regarding the audience for this translation.
+
+Can you let me know where the articles will be published, in a magazine or newspaper etc.?   
+
+What type of readership will there be?
+
+Will they be published in exactly the same format as the current documents, and is this layout to be preserved for each language?  
+
+Does the word count need to be similar for each language? 
+
+Thanks for your help,
+
+Regards,
+Aileen
+
+--
+
+Dear Aileen,
+
 Many thanks for your message and the information about the translation. I'm afraid, however, that the translation quote you are providing me with is beyond our means at the moment. I understand that this might taking into account the urgency of the project, but I would please ask you to consider that this is for a non-profit client who is working to visibilize Irish women and does not have a large budget.
 
 Please also bear in mind that the texts will be published and we are very happy to name the translators, so this could be a great opportunity for portfolio building. We are currently prepared to invest 1800 euros in this project. Is this something you and your team could consider?
