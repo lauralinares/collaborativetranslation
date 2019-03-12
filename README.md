@@ -1,5 +1,49 @@
 Dear Aileen,
 
+Many thanks for your message and the information about the translation. I'm afraid, however, that the translation quote you are providing me with is beyond our means at the moment. I understand that this might taking into account the urgency of the project, but I would please ask you to consider that this is for a non-profit client who is working to visibilize Irish women and does not have a large budget.
+
+Please also bear in mind that the texts will be published and we are very happy to name the translators, so this could be a great opportunity for portfolio building. We are currently prepared to invest 1800 euros in this project. Is this something you and your team could consider?
+
+Many thanks in advance,
+
+The BY&Partners team.
+
+--
+
+Dear Laura Linares and Hannah Silvester,
+
+Thank you for your email.  Further to my previous email, I now have a suggested project final price.
+
+For each of the languages I can propose the following:
+French
+- full translation.  3 articles. 
+Spanish
+- full translation.  3 articles.
+Italian
+- partial translation.  Cesca Trench article and Lily Yeats article
+Chinese
+- partial translation.  Dorothy Price article, plus Cesca Trench article.
+German
+- partial translation.  Dorothy Price article, plus Lily Yeats article.
+
+
+
+This includes translation proofreading, formatting and editing.  
+
+
+Our proposed pricing for the work above is: € 2,560.
+
+
+Is meeting in person an option to discuss this further?  Or by phone on 0877811688.
+
+Thank you and Regards,
+
+Aileen
+
+
+
+Dear Aileen,
+
 Many thanks for your quick response and your availability to collaborate in this project. We would love to have as much text translated today as possible, but we fully understand that the urgency of the project might not allow it. All texts are equally relevant so we are happy to follow your recommendation for Italian, Chinese and German. If there are any changes in availability, we would please ask you to let us know as soon as possible.
 
 The texts will be used for publication, so we would need full quality control and the utmost quality in the translation, please.
